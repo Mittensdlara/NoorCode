@@ -1,0 +1,16 @@
+{
+  "marketing": {
+    "heroTitle": "Learn, Build and Thrive with Norkode",
+    "heroSubtitle": "Premium mentorship-driven coding education for Persian speaking developers.",
+    "ctaPrimary": "Get started",
+    "ctaSecondary": "View courses"
+  },
+  "nav": {
+    "login": "Log in",
+    "register": "Sign up"
+  },
+  "dashboard": {
+    "student": "Student Dashboard",
+    "mentor": "Mentor Dashboard"
+  }
+}
